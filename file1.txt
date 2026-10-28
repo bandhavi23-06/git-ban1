@@ -1,2 +1,7 @@
 Helllooooooo
+<<<<<<< HEAD
 how u doing
+=======
+This is mee
+>>>>>>> feature1
+am good
